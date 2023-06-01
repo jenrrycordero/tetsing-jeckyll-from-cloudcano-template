@@ -1,16 +1,17 @@
 ---
-date: 2021-06-28
+date: 2021-06-28 00:00:00
 title: Real Estate Flipping
 categories:
   - Property
 author_staff_member: john-doe
 SEO_options:
-  title:
-  description:
-  image: 'https://unsplash.it/600/450?image=737&a=.png'
+  title: Real Estate Flipping
+  description: >-
+    Flipping is a term used primarily in the US to describe purchasing a
+    revenue-generating asset and quickly reselling it for profit.
+  image: https://unsplash.it/600/450?image=737&a=.png
   prevent_indexing: false
 ---
-
 Flipping is a term used primarily in the US to describe purchasing a revenue-generating asset and quickly reselling it for profit.
 
 The term "flipping" is used by real estate investors to describe "residential redevelopment". Redevelopment of distressed or abandoned properties or neighborhoods has sometimes been linked to malicious and unscrupulous acts in the post housing bubble era. The term "flipping" is frequently used both as a descriptive term for schemes involving market manipulation and other illegal conduct and as a derogatory term for legal real estate investing strategies that are perceived by some to be unethical or socially destructive. In the United Kingdom the term is used to describe a technique whereby Members of Parliament were found to be switching their second home between several houses, which had the effect of allowing them to maximize their taxpayer funded allowances.
